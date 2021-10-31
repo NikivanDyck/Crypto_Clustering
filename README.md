@@ -27,7 +27,7 @@ List of Definitions
 |Machine Learning|A type of artificial intelligence that uses algorithms and statistical models to make decisions or predictions about data.|
 |Unsupervised Machine Learning|An area of machine learning that finds interesting patterns in data.|
 |Dimensionality Reduction |A type of unsupervised machine learning. This category generally applies to the following financial applications: Feature discernment, Structure discovery, Big data visualization|
-|Clustering|A type of unsupervised machine learning. Generally applies to : Recommended systems, Targeted marketing, Customer segmentation|
+|Clustering|A type of unsupervised machine learning. Generally applies to recommended systems, targeted marketing, customer segmentation|
 |Customer Segmentation|Divides the potential customers of a particular market into discrete groups.|
 |KMeans|The K-means algorithm is an unsupervised learning algorithm that identifies clusters and that solves clustering business problems. Clusters consist of particular groups in data.|
 |Elbow Method|Commonly used heuristic for determining the number of clusters in a dataset|
